@@ -1,3 +1,3 @@
 # Demo
 
-Description about the program
+Description about the program.
